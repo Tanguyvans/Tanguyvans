@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tanguy Vansnick (aka @tanguyvans)
+# 👋 Hi, I'm Tanguy Vansnick
 
 🎓 I'm a **Ph.D. researcher in Computer Engineering**, focused on the intersection of **AI**, **federated learning**, and **cryptographic techniques** for building secure, distributed machine learning systems.
 
@@ -10,11 +10,11 @@ I explore new paradigms for collaborative model training that respect privacy an
 
 I've been actively building and winning across the web3 x AI ecosystem:
 
-- 🥇 **1st Place** – HackUPC 2024
-- 🥇 **NEAR Track Winner** – ETHOxford 2024
-- 🏅 **Finalist** – ETHGlobal Brussels 2024
-- 🏆 **Best Killer App (Flow)** – ETHGlobal Singapore 2024
-- 🥇 **Mina Track Winner** – ETHOxford 2025
+- 🥇 **[NEAR Track Winner – ETHOxford 2024](https://taikai.network/en/home-dao/hackathons/ethoxford/projects/cltlr8w1005ngw2013w8d5yjs/idea)**
+- 🥇 **[1st Place – HackUPC 2024](https://devpost.com/software/x-grmvsx)**
+- 🏅 **[Finalist – ETHGlobal Brussels 2024](https://ethglobal.com/showcase/cook-some-hooks-ehuy8)**
+- 🏆 **[Best Killer App (Flow) – ETHGlobal Singapore 2024](https://ethglobal.com/showcase/maybee-5x6o0)**
+- 🥇 **[Mina Track Winner – ETHOxford 2025](https://dorahacks.io/buidl/22590)**
 
 ---
 
