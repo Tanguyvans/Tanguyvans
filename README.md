@@ -39,7 +39,7 @@ I've been actively building and winning across the web3 x AI ecosystem:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanguyvans&show_icons=true&theme=default)
 
 ---
 
