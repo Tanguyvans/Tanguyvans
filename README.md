@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] (aka @yourusername)
+# 👋 Hi, I'm Tanguy Vansnick (aka @tanguyvans)
 
 🎓 I'm a **Ph.D. researcher in Computer Engineering**, focused on the intersection of **AI**, **federated learning**, and **cryptographic techniques** for building secure, distributed machine learning systems.
 
